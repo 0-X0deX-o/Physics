@@ -1,0 +1,1 @@
+pependicular_max_weight_N = 425

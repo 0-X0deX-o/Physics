@@ -1,0 +1,26 @@
+Equation Number, Equation, Notes
+1.1, (Magnitude of $\vec{A}$) = A = $|\vec{A}|$, NA
+1.2, $\vec{A}$ = $\vec{B}$ + $\vec{C}$, NA
+1.3, $\vec{A}$ = $\vec{B}$ + $\vec{C}$ and $\vec{A}$ + $\vec{B}$ = $\vec{B}$ + $\vec{A}$, NA
+1.4, $\vec{A}$ - $\vec{B}$ = $\vec{A}$ + $(-\vec{B})$, NA
+1.5, $$\frac{A_x}{A} = \cos{\theta}\quad and\quad\frac{A_y}{A}\newline A_x = A\cos{\theta}\quad and\quad A_y = A\cos{\theta}$$, NA
+1.6, $$A = \sqrt{A_x^2 + A_y^2}$$, NA
+1.7, $$\tan{\theta} = \frac{A_y}{A_x}\quad and\quad \theta = \arctan{\frac{A_y}{A_x}}$$, NA
+1.8, $$D_x = cA_x,\quad D_y = cA_y\quad (componenets of \vec{D} = c\vec{A})$$, NA
+1.9, $$\vec{R_x} =\vec{A_x} +\vec{B_x},\quad\vec{R_y} =\vec{A_y} +\vec{B_y}$$, Each component of $\vec{R} = \vec{A} + \vec{B}$
+1.10, $$\vec{R_x}=\vec{A_x}+\vec{B_x}+\vec{C_x}+\vec{D_x}+\vec{E_x}+...\newline\vec{R_y}=\vec{A_y}+\vec{B_y}+\vec{C_y}+\vec{D_y}+\vec{E_y}+...$$, NA
+1.11, $$A= \sqrt{A_x^2+A_y^2+A_z^2}$$, NA
+1.12, $$\vec{A}=A_x\hat{i}+A_y\hat{j}$$, NA
+1.13, $$\vec{A}=A_x\hat{i}+A_y\hat{j}\newline\vec{B}=B_x\hat{i}+B_y\hat{j}\newline\vec{R}=\vec{A}+\vec{B}\newline=(A_x\hat{i} + A_y\hat{j})+(B_x\hat{i} + B_y\hat{j})\newline=(A_x + B_x)\hat{i}+(A_y + B_y)\hat{j}\newline=R_x\hat{i} + R_y\hat{j} $$, NA
+1.14, $$\vec{A} = A_x\hat{i} +A_y\hat{j} +A_z\hat{k} \newline\vec{B} = B_x\hat{i} +B_y\hat{j} +B_z\hat{k} $$, Any vector can be expressed in terms of its x, y and z components and unit vectors $\hat{i}\:\hat{j}\:\hat{k}$
+1.15, $$\vec{R} = (A_x + B_x)\hat{i} +(A_y + B_y)\hat{j} +(A_z + B_z)\hat{k}\newline= R_x\hat{i} + R_y\hat{j} + R_z\hat{k}$$, NA
+1.16, $$\vec{A}\cdot\vec{B} = AB\cos{\phi} = |\vec{A}||\vec{B}|\cos{\phi}$$__Scalar (dot) product__ of vectors $\vec{A}\: and\: \vec{B}$, $\phi$ is the angle between the vectors
+1.17, $$\hat{i}\cdot\hat{i}= \hat{j}\cdot\hat{j}=\hat{k}\cdot\hat{k}=(1)(1)\cos{0\degree}= 1 \newline\hat{i}\cdot\hat{j}= \hat{i}\cdot\hat{k}=\hat{j}\cdot\hat{k}=(1)(1)\cos{90\degree}= 0 $$, NA
+1.18, $$\vec{A}\cdot\vec{B}=(A_x\hat{i}+A_y\hat{j}+A_z\hat{k})\cdot(B_x\hat{i}+B_x\hat{j}+B_x\hat{k})\\~\\= A_x\hat{i}\cdot B_x\hat{i}+A_x\hat{i}\cdot B_y\hat{j}+A_x\hat{i}\cdot B_z\hat{k}\newline\quad+ A_y\hat{j}\cdot B_x\hat{i}+A_y\hat{j}\cdot B_y\hat{j}+A_y\hat{j}\cdot B_z\hat{k}\newline\quad+ A_z\hat{k}\cdot B_x\hat{i}+A_z\hat{k}\cdot B_y\hat{j}+A_z\hat{k}\cdot B_z\hat{k}\\~\\= A_xB_x\hat{i}\cdot\hat{i}+A_xB_y\hat{i}\cdot\hat{j}+A_xB_z\hat{i}\cdot\hat{k}+\newline\quad+A_yB_x\hat{j}\cdot \hat{i}+A_yB_j\hat{j}\cdot \hat{j}+A_yB_z\hat{j}\cdot \hat{k}\newline\quad+A_zB_x\hat{k}\cdot \hat{i}+A_zB_j\hat{k}\cdot \hat{j}+A_zB_z\hat{k}\cdot \hat{z}$$, NA
+1.19, $$\vec{A}\cdot \vec{B}=A_xB_x+A_yB_y+A_zB_z$$__Scalar (dot) product__ of vectors $\vec{A}\: and\: \vec{B}$
+1.20, $$C =AB\sin{\phi}$$,Magnitude of __vector__ (cross) __product__ product of vectors $\vec{B}\: and\: \vec{A}$
+1.21, $$\vec{A}\times\vec{B}=-\vec{B}\times\vec{A}$$, NA
+1.22, $$\hat{i}\times\hat{j}=-\hat{j}\times\hat{i}=\hat{k}\newline\hat{j}\times\hat{k}=-\hat{k}\times\hat{j}=\hat{i}\newline\hat{k}\times\hat{i}=-\hat{i}\times\hat{k}=\hat{j}\newline$$, NA  
+1.23, $$\vec{A}\times\vec{B}=(A_x\hat{i}+A_y\hat{j}+A_z\hat{k})\times(B_x\hat{i}+B_y\hat{j}+B_z\hat{k})\newline\quad=A_x\hat{i}\times B_x\hat{i}+A_x\hat{i}\times B_y\hat{j}+A_x\hat{i}\times B_z\hat{k}\newline\quad\:+A_y\hat{j}\times B_x\hat{i}+A_y\hat{j}\times B_y\hat{j}+A_y\hat{j}\times B_z\hat{k}\newline\quad\:+A_z\hat{z}\times B_x\hat{i}+A_z\hat{z}\times B_y\hat{j}+A_z\hat{z}\times B_z\hat{k}$$
+1.24, $$\vec{A}\times\vec{B}=(A_yB_z - A_zB_y)\hat{i}+(A_zB_x - A_xB_z)\hat{j}+(A_xB_y - A_yB_z)\hat{k}$$, NA
+1.25, $$C_x=A_yB_z-A_zB_y\quad  C_y=A_zB_x-A_xB_z\quad C_z=A_xB_y-A_yB_x\quad $$, Components of vector (cross) product $\vec{A}\times\vec{B}$
